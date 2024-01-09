@@ -1,0 +1,5 @@
+signIn_button_homePage: '//android.widget.Button[@resource-id="com.example.myapplication:id/login"]'
+email_input_signinPage: '//android.widget.EditText[@resource-id="com.example.myapplication:id/username"]'
+password_input_signinPage: '//android.widget.EditText[@resource-id="com.example.myapplication:id/password"]'
+signIn_button_signinPage: '//android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]'
+username_text_homePage: '//android.widget.TextView[@resource-id="com.example.myapplication:id/textView"]'
