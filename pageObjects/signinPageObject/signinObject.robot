@@ -23,3 +23,6 @@ Click Sign In Button On Login Page
 
 Verify User Is Logged In
     Wait Until Element Is Visible    ${username_text_homePage}
+
+Verify User Is Not Logged In
+    Wait Until Element Is Visible    ${signIn_button_signinPage}

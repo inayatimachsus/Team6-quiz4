@@ -3,3 +3,4 @@ email_input_signinPage: '//android.widget.EditText[@resource-id="com.example.mya
 password_input_signinPage: '//android.widget.EditText[@resource-id="com.example.myapplication:id/password"]'
 signIn_button_signinPage: '//android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]'
 username_text_homePage: '//android.widget.TextView[@resource-id="com.example.myapplication:id/textView"]'
+invalid_user_toast: '//android.widget.Toast[@text="Invalid username/password"]'
